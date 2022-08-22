@@ -14,11 +14,6 @@ This is an attempt to present a way of creating React applications using the bes
 
 The goal of this repo is to serve as a collection of resources and good practices when developing React applications. It is supposed to showcase solving most of the real-world problems of an application in a practical way and help developers writing better applications.
 
-Feel free to explore the codebase to get the most value out of the repo.
-
-#### Disclaimer:
-
-This is not supposed to be a template, boilerplate or a framework. It is an opinionated guide that shows how to do some things in a certain way. You are not forced to do everything exactly as it is shown here, decide what works best for you and your team and stay consistent with your style.
 
 ## Table Of Contents:
 
