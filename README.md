@@ -34,7 +34,7 @@ This is not supposed to be a template, boilerplate or a framework. It is an opin
 - [🔐 Security](docs/security.md)
 - [🚄 Performance](docs/performance.md)
 - [🌐 Deployment](docs/deployment.md)
-- [📚 Additional Resources](docs/additional-resources.md)
+
 
 ## Contributing
 
